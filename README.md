@@ -5,9 +5,8 @@ This project focuses on analyzing social media usage patterns and addiction leve
 
 The dataset contains records of 705 students (as shown in the analysis section of the project 
 
-PriyaGupta_Social Media Addicti…
-
-), providing a strong foundation for identifying behavioral trends and addiction patterns.
+PriyaGupta_Social Media Addicti…)
+ providing a strong foundation for identifying behavioral trends and addiction patterns.
 Objective
 
 The primary goal of this project is to:
@@ -33,6 +32,7 @@ Tool: MySQL Workbench
 Dataset Source: Kaggle (Students’ Social Media Addiction Dataset)
 
 Presentation Tool: Canva
+
 Why This Project Is Important
 
 Social media addiction is a growing global concern affecting mental health and daily productivity. This project demonstrates strong SQL skills, analytical thinking, and the ability to generate meaningful insights from real-world behavioral data.
